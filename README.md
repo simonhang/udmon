@@ -1,6 +1,7 @@
 udmon is a small UDisks monitor programm for linux systems not using a full
 featured graphical environment like KDE, Gnome or Xfce. Instead it seems to be useful for systems
-running openbox or the like.
+running openbox or the like. Its only purpose is to open your prefered filemanager when a
+removeable device is plugged into your computer and unmount it on your behalf when it is not needed anymore.
 
 I wrote this small pice of code because I could not find any program that fits my needs and I like
 to code even so I am not very good at it :)
@@ -14,4 +15,4 @@ click the remove entry. That is all the application does.
 udmon was created with QTCreator 2.5.2 and QT 4.8.2. So to compile udmon just clone the repository and load
 udmon.pro with QTCreator.
 
-udmon is free source and ist licensed under GPLv2 or later
+udmon is free software and is licensed under GPLv2 or later
