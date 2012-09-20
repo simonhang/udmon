@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>drive.png</file>
+    </qresource>
+</RCC>
