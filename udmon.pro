@@ -12,6 +12,8 @@ CONFIG   -= app_bundle
 
 TEMPLATE = app
 
+target.path = /usr/bin/udmon
+INSTALLS += target
 
 SOURCES += main.cpp \
     utray.cpp \
