@@ -13,7 +13,7 @@ with the mounted device path opened. I tested this with qtfm. After you dont nee
 click the remove entry. That is all the application does.
 
 udmon was created with QTCreator 2.5.2 and QT 4.8.2. So to compile udmon just clone the repository and load
-udmon.pro with QTCreator or just call **make** and if you are sure that it works call **make install**. This
+udmon.pro with QTCreator or just call **qmake**, **make** and if you are sure that it works call **make install**. This
 will install the binary to /usr/bin/
 
 udmon is free software and is licensed under GPLv2 or later
