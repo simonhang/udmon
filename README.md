@@ -10,3 +10,8 @@ On startup nothing else happens then a small icon is shown in your tray. Right c
 to open when a USB stick or any removable device is attached. After attaching a device the program should start
 with the mounted device path opened. I tested this with qtfm. After you dont need the device right click und
 click the remove entry. That is all the application does.
+
+udmon was created with QTCreator 2.5.2 and QT 4.8.2. So to compile udmon just clone the repository and load
+udmon.pro with QTCreator.
+
+udmon is free source and ist licensed under GPLv2 or later
